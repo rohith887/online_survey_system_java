@@ -1,2 +1,5 @@
-# online_survey_system_java
-online survey system using java
+Survey-Board
+====================
+
+SurveyBoard is an online survey system for create and publish online surveys in minutes, and view results graphically and in real time. 
+
